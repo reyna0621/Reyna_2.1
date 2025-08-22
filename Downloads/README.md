@@ -1,7 +1,7 @@
-To get started with setup, make sure you have MicroSIP already installed on you remote desktop.
+To get started with setup, make sure you have MicroSIP already installed on your remote desktop.
 If you do not have then download and install it from this link: [MicroSIP](https://www.microsip.org/download/MicroSIP-3.21.6.exe?5)
 
-Assuming you have MicroSIP installed, follow these steps:
+Now assuming you have MicroSIP installed, follow these steps:
 
 1. Download "MicroSIP_receiver.exe", "icon.ico" and "log.bat"
 2. Go to your Desktop, search for "MicroSIP" shortcut and right click on it.
@@ -18,4 +18,4 @@ Assuming you have MicroSIP installed, follow these steps:
 13. You might get a small pop-up but ignore it by clicking on OK and go to Downloads to select "Icon.ico" file you just downloaded.
 14. Click on 'OK'.
 
-Now you're good to go and give it a try.
+Now you're good to go, give it a run.
